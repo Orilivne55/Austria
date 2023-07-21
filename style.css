@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(229, 135, 12);
+    text-align: center;
+}
+
+.homepage h1,h2,big{
+    color: brown;
+  
+}
+header{
+    text-align: left;
+}
+
+.flagA{
+    text-align:right ; 
+}
+
+.contact.html{
+    background-color: rgb(30, 47, 122);
+
+}
+.homepage h2{
+    text-align: center;
+}
+header,footer{
+    background-color: #dacece;
+}
+table,th,td{
+    border-collapse:collapse;
+    width: 20%;
+    border: 1px solid;
+    align-content: center;
+    
+    
+}
