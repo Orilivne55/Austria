@@ -32,3 +32,12 @@ table,th,td{
     align-content: center;
     
 }
+column {
+    float: left;
+    width: 33.33%;
+  }
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
