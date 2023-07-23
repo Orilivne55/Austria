@@ -56,3 +56,12 @@ h1,h2,big{
     background-size: cover;
     color: rgb(185, 7, 239);
 }
+input[type=submit],input[type=reset],input[type=text],input[type=email]{
+    
+  border: 2px solid rgb(185, 7, 239);
+  color: rgb(185, 7, 239);
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+
