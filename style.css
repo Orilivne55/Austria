@@ -47,3 +47,7 @@ table,th,td{
 h1,h2,big{
     color: rgb(121, 66, 11);
 }
+input{
+    background-color: rgb(2, 0, 3);
+    color: rgb(252, 247, 247);
+}
