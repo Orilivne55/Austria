@@ -3,12 +3,10 @@ body{
     text-align: center;
 }
 
-.homepage h1,h2,big{
-    color: brown;
-  
-}
+
 *{
-    font-family: system-ui, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
 }
 header img{
     float: right;
@@ -46,3 +44,6 @@ table,th,td{
     clear: both;
   }
   
+h1,h2,big{
+    color: rgb(121, 66, 11);
+}
